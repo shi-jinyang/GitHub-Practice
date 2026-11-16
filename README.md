@@ -1,4 +1,5 @@
-# Git Practice - master version
+
+# Git Practice - merged version
 
 This is my second Git lesson.
 This is my third Git lesson.
