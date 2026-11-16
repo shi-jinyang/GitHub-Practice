@@ -1,3 +1,5 @@
-# Git Practice 
-This is my second Git lesson. 
-This is my third Git lesson. 
+# Git Practice - feature version
+
+This is my second Git lesson.
+This is my third Git lesson.
+
