@@ -1,0 +1,2 @@
+Git stash practice version 1
+Git stash practice version 2
