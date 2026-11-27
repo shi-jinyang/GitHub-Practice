@@ -1,0 +1,7 @@
+Project Name: Git Final Practice
+Version: 1.0
+Developer: shi-jinyang
+
+Features:
+- Git branch management
+- Git commit practice
